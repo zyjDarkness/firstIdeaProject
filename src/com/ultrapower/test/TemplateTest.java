@@ -9,10 +9,14 @@ import java.util.List;
  * @date 2019/4/13 - 9:42
  */
 public class TemplateTest {
+    /**
+     *测试
+    */
+    private int a = 1;
+
     private static final String COUNTRY = "China";
     public static final String CITY = "CHONGQING";
     public static final int num = 1;
-    public static final String a= "aaa";
 
     /**
      * 用户id
